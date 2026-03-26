@@ -41,4 +41,4 @@ Página moderna com layout responsivo, focada em organização visual e experiê
 - Site publicado: https://anastaciorodrigues.github.io/Meu---portif-lio-
 
 ## 📌 Autor
-Desenvolvido por Anastácio Rodrigues
+Desenvolvido por Anastácio Rodrigues 2026.
