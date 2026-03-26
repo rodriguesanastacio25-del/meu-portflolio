@@ -36,7 +36,7 @@ Página moderna com layout responsivo, focada em organização visual e experiê
 
 ## 🔗 Acesse o projeto
 - Repositório: https://anastáciorodrigues.github.io/meu-portfolio
-- Site publicado: https://anastaciorodrigues.github.io/meu-portifolio
+- Site publicado: https://anastaciorodrigues.github.io/meu-portfolio
 
 ## 📌 Autor
 Desenvolvido por Anastácio Rodrigues
