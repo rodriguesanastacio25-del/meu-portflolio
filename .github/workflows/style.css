@@ -1,0 +1,40 @@
+body {
+  font-family: Arial;
+  margin: 0;
+}
+
+header {
+  background: #222;
+  color: white;
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+}
+
+nav a {
+  color: white;
+  margin-left: 10px;
+  text-decoration: none;
+}
+
+section {
+  padding: 20px;
+}
+
+#lista-projetos {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+
+.card {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+/* Responsivo */
+@media (max-width: 600px) {
+  #lista-projetos {
+    grid-template-columns: 1fr;
+  }
+}
