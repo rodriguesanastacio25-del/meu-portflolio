@@ -35,8 +35,8 @@ Aplicação simples para gerenciamento de tarefas, utilizando lógica em JavaScr
 Página moderna com layout responsivo, focada em organização visual e experiência do usuário.
 
 ## 🔗 Acesse o projeto
-- Repositório: https://anastáciorodrigues.github.io/meu-portfolio
-- Site publicado: https://anastaciorodrigues.github.io/meu-portfolio
+- Repositório:https://anastaciorodrigues.github.io/Meu---portif-lio-
+- Site publicado: https://anastaciorodrigues.github.io/Meu---portif-lio-
 
 ## 📌 Autor
 Desenvolvido por Anastácio Rodrigues
