@@ -3,7 +3,7 @@
 <button>Ver projetos</button># 💻 Meu Portfólio
 
 Este projeto é um portfólio profissional desenvolvido como MVP (Produto Mínimo Viável), com o objetivo de apresentar minhas informações e projetos de forma simples, organizada e responsiva.
-
+"Este portfólio foi desenvolvido utilizando HTML, CSS e JavaScript com o objetivo de apresentar meus projetos e habilidades."
 ## 🚀 Tecnologias utilizadas
 - HTML5
 - CSS3
